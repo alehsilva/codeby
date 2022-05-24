@@ -1,12 +1,12 @@
-import Teste from 'pages/Teste';
 import { BrowserRouter, Route } from 'react-router-dom';
+import CarrinhoDeCompras from 'pages/CarrinhoDeCompras';
 
 export default function Routes(): JSX.Element {
   return (
     <BrowserRouter>
-      <>
-        <Route exact path="/" component={Teste} />
-      </>
+      <div className="contentWrapper">
+        <Route exact path="/" component={CarrinhoDeCompras} />
+      </div>
     </BrowserRouter>
   );
 }

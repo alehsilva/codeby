@@ -1,5 +1,5 @@
 {
-  "name": "desafio-ioasys",
+  "name": "desafio-codeby",
   "version": "0.1.0",
   "private": true,
   "baseUrl": "./src",
@@ -17,8 +17,6 @@
     "@formatjs/intl-numberformat": "^7.2.0",
     "@formatjs/intl-pluralrules": "^4.1.0",
     "@formatjs/intl-relativetimeformat": "^9.2.0",
-    "@mui/icons-material": "^5.4.1",
-    "@mui/material": "^5.4.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
